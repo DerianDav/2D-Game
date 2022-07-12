@@ -1,0 +1,4 @@
+id Name AssetName SellPrice BuyPrice
+1 Crysterium Crysterium 1 1
+2 Crystal_Card CrystalCard 0 25 
+3 Wooden_Box Wooden_Box 0 0
